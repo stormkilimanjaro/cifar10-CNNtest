@@ -1,0 +1,6 @@
+preprocess_*
+image_*
+cifar*
+checkpoint
+venv/*
+
