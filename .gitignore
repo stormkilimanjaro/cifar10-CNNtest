@@ -3,4 +3,5 @@ image_*
 cifar*
 checkpoint
 venv/*
-./idea*
+.idea*
+.DS_*
