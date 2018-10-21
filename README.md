@@ -28,7 +28,7 @@ This code is based upon the following references:
 
 Install the packages above using ```python3.6 -m pip install [package name]```
 
-### Running the training model
+### Training the model
 ```
 $ python code.py
 ```
